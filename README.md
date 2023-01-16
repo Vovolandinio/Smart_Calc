@@ -1,2 +1,2 @@
 # Smart_Calc
- calculator with the ability to count long tokens, build a graph. Additionally, a credit calculator is implemented.
+ Сalculator with the ability to count long tokens based on Dijkstra's algorithm, build a graph. Additionally, a credit calculator is implemented.
